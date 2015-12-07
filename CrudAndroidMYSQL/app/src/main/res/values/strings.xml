@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CrudAndroidMYSQL</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_create">CreateActivity</string>
+    <string name="title_activity_update_delete">UpdateDeleteActivity</string>
+</resources>
